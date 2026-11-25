@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [二語の関係](nigo-no-kankei.md) · 次へ: [文の並べ替え](narabekae.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [二語の関係](nigo-no-kankei.md) · 次へ: [文の並べ替え](narabekae.md)
+<!-- /nav:top -->
 
 # 語句の意味
 
@@ -90,4 +92,6 @@ E 山道で重い荷物を**負う**
 
 ---
 
-<!-- nav:bottom -->← 前へ: [二語の関係](nigo-no-kankei.md) | 次へ: [文の並べ替え](narabekae.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [二語の関係](nigo-no-kankei.md) | 次へ: [文の並べ替え](narabekae.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [用語集](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [用語集](glossary.md)
+<!-- /nav:top -->
 
 # 出典
 
@@ -56,4 +58,6 @@ PrepClubsの模擬テストへのリンクは練習の場として紹介して�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [用語集](glossary.md) | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [用語集](glossary.md) | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

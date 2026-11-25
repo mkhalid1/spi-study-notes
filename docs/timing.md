@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [結果の見られ方](scoring.md) · 次へ: [学習プラン（7日・2日）](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [結果の見られ方](scoring.md) · 次へ: [学習プラン（7日・2日）](study-plans.md)
+<!-- /nav:top -->
 
 # 時間配分
 
@@ -55,4 +57,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [結果の見られ方](scoring.md) | 次へ: [学習プラン（7日・2日）](study-plans.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [結果の見られ方](scoring.md) | 次へ: [学習プラン（7日・2日）](study-plans.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

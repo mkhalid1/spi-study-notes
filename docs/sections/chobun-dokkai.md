@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [文の並べ替え](narabekae.md) · 次へ: [推論](suiron.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [文の並べ替え](narabekae.md) · 次へ: [推論](suiron.md)
+<!-- /nav:top -->
 
 # 長文読解
 
@@ -98,4 +100,6 @@ D 矢印や記号を使ったメモが広まったから
 
 ---
 
-<!-- nav:bottom -->← 前へ: [文の並べ替え](narabekae.md) | 次へ: [推論](suiron.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [文の並べ替え](narabekae.md) | 次へ: [推論](suiron.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

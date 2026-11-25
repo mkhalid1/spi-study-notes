@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [時間配分](timing.md) · 次へ: [新卒就活生のためのSPIガイド](shinsotsu.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [時間配分](timing.md) · 次へ: [新卒就活生のためのSPIガイド](shinsotsu.md)
+<!-- /nav:top -->
 
 # 学習プラン（7日・2日）
 
@@ -59,4 +61,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [時間配分](timing.md) | 次へ: [新卒就活生のためのSPIガイド](shinsotsu.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [時間配分](timing.md) | 次へ: [新卒就活生のためのSPIガイド](shinsotsu.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

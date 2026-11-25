@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [長文読解](chobun-dokkai.md) · 次へ: [割合・損益](wariai-soneki.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [長文読解](chobun-dokkai.md) · 次へ: [割合・損益](wariai-soneki.md)
+<!-- /nav:top -->
 
 # 推論
 
@@ -111,4 +113,6 @@ A 4　B 5　C 6　D 8　E 9
 
 ---
 
-<!-- nav:bottom -->← 前へ: [長文読解](chobun-dokkai.md) | 次へ: [割合・損益](wariai-soneki.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [長文読解](chobun-dokkai.md) | 次へ: [割合・損益](wariai-soneki.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

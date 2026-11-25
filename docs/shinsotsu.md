@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [学習プラン（7日・2日）](study-plans.md) · 次へ: [受検当日のチェックリスト](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [学習プラン（7日・2日）](study-plans.md) · 次へ: [受検当日のチェックリスト](test-day-checklist.md)
+<!-- /nav:top -->
 
 # 新卒就活生のためのSPIガイド
 
@@ -62,4 +64,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [学習プラン（7日・2日）](study-plans.md) | 次へ: [受検当日のチェックリスト](test-day-checklist.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [学習プラン（7日・2日）](study-plans.md) | 次へ: [受検当日のチェックリスト](test-day-checklist.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

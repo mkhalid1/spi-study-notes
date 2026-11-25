@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [割合・損益](wariai-soneki.md) · 次へ: [速さ](hayasa.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [割合・損益](wariai-soneki.md) · 次へ: [速さ](hayasa.md)
+<!-- /nav:top -->
 
 # 確率・場合の数
 
@@ -83,4 +85,6 @@ A 3/10　B 3/5　C 7/10　D 4/5　E 9/10
 
 ---
 
-<!-- nav:bottom -->← 前へ: [割合・損益](wariai-soneki.md) | 次へ: [速さ](hayasa.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [割合・損益](wariai-soneki.md) | 次へ: [速さ](hayasa.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

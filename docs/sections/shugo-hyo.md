@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [速さ](hayasa.md) · 次へ: [結果の見られ方](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [速さ](hayasa.md) · 次へ: [結果の見られ方](../scoring.md)
+<!-- /nav:top -->
 
 # 集合・表の読み取り
 
@@ -105,4 +107,6 @@ A 約28%　B 約31%　C 約33%　D 約36%　E 約39%
 
 ---
 
-<!-- nav:bottom -->← 前へ: [速さ](hayasa.md) | 次へ: [結果の見られ方](../scoring.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [速さ](hayasa.md) | 次へ: [結果の見られ方](../scoring.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

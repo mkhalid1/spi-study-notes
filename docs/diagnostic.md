@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [性格検査](personality.md) · 次へ: [二語の関係](sections/nigo-no-kankei.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [性格検査](personality.md) · 次へ: [二語の関係](sections/nigo-no-kankei.md)
+<!-- /nav:top -->
 
 # 15分診断テスト
 
@@ -141,4 +143,6 @@ A 13人　B 15人　C 18人　D 20人　E 23人
 
 ---
 
-<!-- nav:bottom -->← 前へ: [性格検査](personality.md) | 次へ: [二語の関係](sections/nigo-no-kankei.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [性格検査](personality.md) | 次へ: [二語の関係](sections/nigo-no-kankei.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

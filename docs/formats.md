@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [SPI３とは](test-overview.md) · 次へ: [性格検査](personality.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [SPI３とは](test-overview.md) · 次へ: [性格検査](personality.md)
+<!-- /nav:top -->
 
 # 4つの受検方式
 
@@ -68,4 +70,6 @@ SPI３の受検方式は、テストセンター、WEBテスティング、イ�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [SPI３とは](test-overview.md) | 次へ: [性格検査](personality.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [SPI３とは](test-overview.md) | 次へ: [性格検査](personality.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

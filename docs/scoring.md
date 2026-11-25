@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [集合・表の読み取り](sections/shugo-hyo.md) · 次へ: [時間配分](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [集合・表の読み取り](sections/shugo-hyo.md) · 次へ: [時間配分](timing.md)
+<!-- /nav:top -->
 
 # 結果の見られ方
 
@@ -56,4 +58,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [集合・表の読み取り](sections/shugo-hyo.md) | 次へ: [時間配分](timing.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [集合・表の読み取り](sections/shugo-hyo.md) | 次へ: [時間配分](timing.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

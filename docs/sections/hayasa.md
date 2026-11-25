@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [確率・場合の数](kakuritsu.md) · 次へ: [集合・表の読み取り](shugo-hyo.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [確率・場合の数](kakuritsu.md) · 次へ: [集合・表の読み取り](shugo-hyo.md)
+<!-- /nav:top -->
 
 # 速さ
 
@@ -78,4 +80,6 @@ A 10分後　B 20分後　C 30分後　D 60分後　E 120分後
 
 ---
 
-<!-- nav:bottom -->← 前へ: [確率・場合の数](kakuritsu.md) | 次へ: [集合・表の読み取り](shugo-hyo.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [確率・場合の数](kakuritsu.md) | 次へ: [集合・表の読み取り](shugo-hyo.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

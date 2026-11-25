@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [15分診断テスト](../diagnostic.md) · 次へ: [語句の意味](goku-no-imi.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [15分診断テスト](../diagnostic.md) · 次へ: [語句の意味](goku-no-imi.md)
+<!-- /nav:top -->
 
 # 二語の関係
 
@@ -94,4 +96,6 @@ A アだけ　B イだけ　C ウだけ　D アとイ　E アとウ　F イと�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [15分診断テスト](../diagnostic.md) | 次へ: [語句の意味](goku-no-imi.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [15分診断テスト](../diagnostic.md) | 次へ: [語句の意味](goku-no-imi.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

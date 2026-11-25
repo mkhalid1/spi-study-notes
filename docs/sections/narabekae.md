@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [語句の意味](goku-no-imi.md) · 次へ: [長文読解](chobun-dokkai.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [語句の意味](goku-no-imi.md) · 次へ: [長文読解](chobun-dokkai.md)
+<!-- /nav:top -->
 
 # 文の並べ替え
 
@@ -101,4 +103,6 @@ A ア　B イ　C ウ　D エ
 
 ---
 
-<!-- nav:bottom -->← 前へ: [語句の意味](goku-no-imi.md) | 次へ: [長文読解](chobun-dokkai.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [語句の意味](goku-no-imi.md) | 次へ: [長文読解](chobun-dokkai.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

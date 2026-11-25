@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [ホーム](../README.md) · 次へ: [4つの受検方式](formats.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [ホーム](../README.md) · 次へ: [4つの受検方式](formats.md)
+<!-- /nav:top -->
 
 # SPI３とは
 
@@ -83,4 +85,6 @@ SPI３は、リクルートマネジメントソリューションズが提供�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [ホーム](../README.md) | 次へ: [4つの受検方式](formats.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [ホーム](../README.md) | 次へ: [4つの受検方式](formats.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

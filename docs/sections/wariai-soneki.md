@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [推論](suiron.md) · 次へ: [確率・場合の数](kakuritsu.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [推論](suiron.md) · 次へ: [確率・場合の数](kakuritsu.md)
+<!-- /nav:top -->
 
 # 割合・損益
 
@@ -86,4 +88,6 @@ A 100個　B 134個　C 166個　D 167個　E 200個
 
 ---
 
-<!-- nav:bottom -->← 前へ: [推論](suiron.md) | 次へ: [確率・場合の数](kakuritsu.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [推論](suiron.md) | 次へ: [確率・場合の数](kakuritsu.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->
