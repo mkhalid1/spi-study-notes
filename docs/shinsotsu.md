@@ -60,7 +60,7 @@
 
 ## 練習をどこで始めるか
 
-段取りがわかったら、あとは形式に慣れるだけです。[15分診断テスト](diagnostic.md)で苦手を見つけ、[学習プラン](study-plans.md)に沿って進めてください。時間つきの通し練習には、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)が使えます。
+段取りがわかったら、あとは形式に慣れるだけです。[15分診断テスト](diagnostic.md)で苦手を見つけ、[学習プラン](study-plans.md)に沿って進めてください。時間つきの通し練習には、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)が使えます。
 
 ---
 

@@ -2,7 +2,7 @@
 
 SPI３（リクルートマネジメントソリューションズの適性検査）の無料の学習ガイドです。検査のしくみ、4つの受検方式、言語・非言語の9つの問題タイプごとの解き方、解説付きのオリジナル練習問題35問、結果の見られ方、7日と2日の学習プランをまとめています。主な読者は新卒の就活生で、テストセンターの予約や前回結果送信など、問題を解く前の段取りを説明した[専用ページ](docs/shinsotsu.md)もあります。SPI３の事実は、提供元の公式ページだけを出典にしています（[出典一覧](docs/sources.md)）。
 
-まず実力を確かめたい方は、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)（35問・35分）か、このガイドの[15分診断テスト](docs/diagnostic.md)から始めてください。
+まず実力を確かめたい方は、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)（35問・35分）か、このガイドの[15分診断テスト](docs/diagnostic.md)から始めてください。
 
 ## はじめに
 
@@ -232,7 +232,7 @@ SPI３（リクルートマネジメントソリューションズの適性検�
 - **答えを見る前に、自分の答えを決めてください。** 解答は「解答と解説を見る」を開くと表示されます。
 - **正解した問題の解説も読んでください。** 多くの解説は、紛らわしい選択肢がなぜ違うのかまで説明しています。そこに一番の学びがあります。
 - **間違いを記録しましょう。** 間違えた問題ごとに、飛ばした手順を1行で書いておきます。やり方は[学習プラン](docs/study-plans.md#間違えた問題の見直し方)にあります。
-- **時間を計って練習しましょう。** このガイドで解き方を学び、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)のような時間つきの練習でペースをつかみます。
+- **時間を計って練習しましょう。** このガイドで解き方を学び、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)のような時間つきの練習でペースをつかみます。
 - **クローンやフォークも自由にできます。** 自分用のコピーを作って書き込めます。GitBookのスペースとしても使える構成です（[SUMMARY.md](SUMMARY.md)）。
 
 ## 練習問題について

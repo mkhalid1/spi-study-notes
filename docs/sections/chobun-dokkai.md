@@ -82,7 +82,7 @@ D 矢印や記号を使ったメモが広まったから
 
 </details>
 
-もっと練習したい方は、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)を試してみてください。言語15問・非言語20問の35問を35分で解く形式で、全問に日本語の解説が付いています。
+もっと練習したい方は、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)を試してみてください。言語15問・非言語20問の35問を35分で解く形式で、全問に日本語の解説が付いています。
 
 ## 自己採点
 

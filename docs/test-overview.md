@@ -81,7 +81,7 @@ SPI３は、リクルートマネジメントソリューションズが提供�
 
 ## 形式に慣れておく
 
-形式に慣れるいちばんの近道は、制限時間つきで一度通して解いてみることです。[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)は、言語と非言語を合わせた練習用の35問を35分で解く形式です。本番の問題数や時間とは別物ですが、時間に追われる感覚をつかむ練習になります。
+形式に慣れるいちばんの近道は、制限時間つきで一度通して解いてみることです。[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)は、言語と非言語を合わせた練習用の35問を35分で解く形式です。本番の問題数や時間とは別物ですが、時間に追われる感覚をつかむ練習になります。
 
 ---
 

@@ -53,7 +53,7 @@
 
 ## 時間を意識した練習
 
-時間の感覚は、制限時間つきで解いてみないと身につきません。まずこのガイドの練習問題を、目安の時間を意識しながら解いてください。そのうえで、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)のような時間つきの練習で、言語と非言語を通して解く感覚をつかみましょう。PrepClubsの模擬テストは35問を35分で解く練習用の形式で、本番の問題数や時間とは別物です。
+時間の感覚は、制限時間つきで解いてみないと身につきません。まずこのガイドの練習問題を、目安の時間を意識しながら解いてください。そのうえで、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)のような時間つきの練習で、言語と非言語を通して解く感覚をつかみましょう。PrepClubsの模擬テストは35問を35分で解く練習用の形式で、本番の問題数や時間とは別物です。
 
 ---
 

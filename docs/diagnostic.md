@@ -8,7 +8,7 @@
 
 問題はすべてこのガイドのために作ったオリジナルです。SPI３の実際の問題や、公式・市販の問題集から取ったものではありません。
 
-各タイプの解き方をすでに知っている人は、このページを飛ばして、[PrepClubsの無料SPI模擬テスト（35問・35分）](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)で通しの練習をしてもかまいません。時間配分まで含めて確かめられます。
+各タイプの解き方をすでに知っている人は、このページを飛ばして、[PrepClubsの無料SPI模擬テスト（35問・35分）](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)で通しの練習をしてもかまいません。時間配分まで含めて確かめられます。
 
 ## 言語分野
 

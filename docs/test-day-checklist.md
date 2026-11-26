@@ -71,7 +71,7 @@
 
 ## 最後の練習
 
-本番の前に一度、時間を計って通して解いておくと安心です。[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)は登録なしで始められます。
+本番の前に一度、時間を計って通して解いておくと安心です。[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)は登録なしで始められます。
 
 ---
 

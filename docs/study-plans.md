@@ -17,7 +17,7 @@
 | 3日目 | 言語（文章） | [文の並べ替え](sections/narabekae.md)と[長文読解](sections/chobun-dokkai.md)を読み、各3問を解く。長文は段落メモをとりながら読む |
 | 4日目 | 非言語（論理） | [推論](sections/suiron.md)の3問と[集合・表の読み取り](sections/shugo-hyo.md)の3問を解く。条件はすべて記号で書き出す |
 | 5日目 | 非言語（計算） | [割合・損益](sections/wariai-soneki.md)、[確率・場合の数](sections/kakuritsu.md)、[速さ](sections/hayasa.md)の計8問を、電卓なしで解く |
-| 6日目 | 通しの練習 | [PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)のような時間つきの練習を通して解く。[時間配分](timing.md)を読み、時間を失った問題タイプを確かめる |
+| 6日目 | 通しの練習 | [PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)のような時間つきの練習を通して解く。[時間配分](timing.md)を読み、時間を失った問題タイプを確かめる |
 | 7日目 | 仕上げ | 間違えた問題の記録の「次に確かめること」を読み返す。苦手タイプの練習問題を、答えを見ずに解き直す。[受検当日のチェックリスト](test-day-checklist.md)を確認し、夜は早めに休む |
 
 ### 間違えた問題の見直し方
@@ -47,7 +47,7 @@
 
 | ブロック | 時間 | やること |
 |---|---|---|
-| 1 | 40分 | [PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)を時間を計って通して解く |
+| 1 | 40分 | [PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)を時間を計って通して解く |
 | 2 | 30分 | 間違えた問題タイプのページで、手順を読み直す |
 | 3 | 10分 | [時間配分](timing.md)の「基本の考え方」を読む |
 | 4 | 10分 | [受検当日のチェックリスト](test-day-checklist.md)で持ち物と流れを確かめる |

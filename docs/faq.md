@@ -89,7 +89,7 @@ WEBテスティングでパソコンのトラブルが起きたときは、受�
 
 ## 無料で練習できるところはありますか？
 
-このガイドの[15分診断テスト](diagnostic.md)と、各ページの練習問題は無料です。時間を計って通して解くなら、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=spi)（35問・35分、言語15問・非言語20問）も使えます。どちらも練習用のオリジナル問題で、SPI３の実際の問題ではありません。
+このガイドの[15分診断テスト](diagnostic.md)と、各ページの練習問題は無料です。時間を計って通して解くなら、[PrepClubsの無料SPI模擬テスト](https://prepclubs.com/ja/spi-renshu-mondai?utm_source=github&utm_medium=referral&utm_campaign=n7vq4g&utm_content=spi)（35問・35分、言語15問・非言語20問）も使えます。どちらも練習用のオリジナル問題で、SPI３の実際の問題ではありません。
 
 ---
 
